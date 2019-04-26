@@ -1,1 +1,1 @@
-photo resource
+# photo resource
